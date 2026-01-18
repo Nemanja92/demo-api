@@ -1,0 +1,72 @@
+[
+  {
+    "id": "sopranos",
+    "title": "The Sopranos",
+    "year": 1999,
+    "runtimeMinutes": 55,
+    "genres": ["Crime", "Drama"],
+    "plot": "New Jersey mob boss Tony Soprano struggles to balance the demands of crime family life and personal family issues.",
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BZjE5YmZhOWQtZGI0Zi00ODQ2LWJmZmYtZDgyMzlhMDhjOWY3XkEyXkFqcGc@._V1_.jpg",
+    "trailerUrl": "https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/1080/Big_Buck_Bunny_1080_10s_30MB.mp4",
+    "rating": 9.2,
+    "directors": ["David Chase"],
+    "cast": ["James Gandolfini", "Edie Falco"],
+    "releaseDate": "1999-01-10"
+  },
+  {
+    "id": "game_of_thrones",
+    "title": "Game of Thrones",
+    "year": 2011,
+    "runtimeMinutes": 57,
+    "genres": ["Fantasy", "Drama"],
+    "plot": "Nine noble families fight for control over the lands of Westeros while an ancient enemy returns.",
+    "posterUrl": "https://resizing.flixster.com/ajtANROYYdtHssw6m0iLLlSY9Rw=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8681514_b_v8_aa.jpg",
+    "trailerUrl": "https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/1080/Big_Buck_Bunny_1080_10s_30MB.mp4",
+    "rating": 9.1,
+    "directors": ["David Benioff", "D. B. Weiss"],
+    "cast": ["Emilia Clarke", "Kit Harington"],
+    "releaseDate": "2011-04-17"
+  },
+  {
+    "id": "downton_abbey",
+    "title": "Downton Abbey",
+    "year": 2010,
+    "runtimeMinutes": 50,
+    "genres": ["Drama", "History"],
+    "plot": "The lives of the aristocratic Crawley family and their servants unfold in early 20th century England.",
+    "posterUrl": "https://m.media-amazon.com/images/I/71m-doM8brL.jpg",
+    "trailerUrl": "https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/1080/Big_Buck_Bunny_1080_10s_30MB.mp4",
+    "rating": 8.7,
+    "directors": ["Julian Fellowes"],
+    "cast": ["Hugh Bonneville", "Maggie Smith"],
+    "releaseDate": "2010-09-26"
+  },
+  {
+    "id": "dragon_ball",
+    "title": "Dragon Ball",
+    "year": 1986,
+    "runtimeMinutes": 24,
+    "genres": ["Animation", "Action", "Adventure"],
+    "plot": "Young Goku embarks on a quest filled with martial arts, powerful foes, and mystical Dragon Balls.",
+    "posterUrl": "https://japanesegallery.com/pub/media/catalog/product/cache/d864fe008ccb1396261d22d112b7dce0/j/g/jgkp802_s_copy.jpg",
+    "trailerUrl": "https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/1080/Big_Buck_Bunny_1080_10s_30MB.mp4",
+    "rating": 8.6,
+    "directors": ["Daisuke Nishio"],
+    "cast": ["Masako Nozawa", "Mayumi Tanaka"],
+    "releaseDate": "1986-02-26"
+  },
+  {
+    "id": "lost",
+    "title": "Lost",
+    "year": 2004,
+    "runtimeMinutes": 44,
+    "genres": ["Adventure", "Drama", "Mystery"],
+    "plot": "Survivors of a plane crash are forced to work together to survive on a mysterious island.",
+    "posterUrl": "https://m.media-amazon.com/images/I/4152cPyWf2L._AC_UF894,1000_QL80_.jpg",
+    "trailerUrl": "https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/1080/Big_Buck_Bunny_1080_10s_30MB.mp4",
+    "rating": 8.4,
+    "directors": ["J. J. Abrams"],
+    "cast": ["Matthew Fox", "Evangeline Lilly"],
+    "releaseDate": "2004-09-22"
+  }
+]
